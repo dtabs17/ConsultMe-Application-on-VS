@@ -1,0 +1,44 @@
+C:\Users\david\OneDrive\Desktop\ConsultMe Application\ConsultMe Application\bin\Debug\net6.0\ConsultMe Application.exe
+C:\Users\david\OneDrive\Desktop\ConsultMe Application\ConsultMe Application\bin\Debug\net6.0\ConsultMe Application.deps.json
+C:\Users\david\OneDrive\Desktop\ConsultMe Application\ConsultMe Application\bin\Debug\net6.0\ConsultMe Application.runtimeconfig.json
+C:\Users\david\OneDrive\Desktop\ConsultMe Application\ConsultMe Application\bin\Debug\net6.0\ConsultMe Application.dll
+C:\Users\david\OneDrive\Desktop\ConsultMe Application\ConsultMe Application\bin\Debug\net6.0\ConsultMe Application.pdb
+C:\Users\david\OneDrive\Desktop\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\ConsultMe Application.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Desktop\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\ConsultMe Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Desktop\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\ConsultMe Application.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Desktop\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\ConsultMe Application.AssemblyInfo.cs
+C:\Users\david\OneDrive\Desktop\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\ConsultMe Application.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\ConsultMe Application.dll
+C:\Users\david\OneDrive\Desktop\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\refint\ConsultMe Application.dll
+C:\Users\david\OneDrive\Desktop\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\ConsultMe Application.pdb
+C:\Users\david\OneDrive\Desktop\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\ConsultMe Application.genruntimeconfig.cache
+C:\Users\david\OneDrive\Desktop\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\ref\ConsultMe Application.dll
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\bin\Debug\net6.0\ConsultMe Application.exe
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\bin\Debug\net6.0\ConsultMe Application.deps.json
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\bin\Debug\net6.0\ConsultMe Application.runtimeconfig.json
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\bin\Debug\net6.0\ConsultMe Application.dll
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\bin\Debug\net6.0\ConsultMe Application.pdb
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\ConsultMe Application.csproj.AssemblyReference.cache
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\ConsultMe Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\ConsultMe Application.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\ConsultMe Application.AssemblyInfo.cs
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\ConsultMe Application.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\ConsultMe Application.dll
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\refint\ConsultMe Application.dll
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\ConsultMe Application.pdb
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\ConsultMe Application.genruntimeconfig.cache
+C:\Users\david\OneDrive\Desktop\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\ref\ConsultMe Application.dll
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\bin\Debug\net6.0\ConsultMe Application.exe
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\bin\Debug\net6.0\ConsultMe Application.deps.json
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\bin\Debug\net6.0\ConsultMe Application.runtimeconfig.json
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\bin\Debug\net6.0\ConsultMe Application.dll
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\bin\Debug\net6.0\ConsultMe Application.pdb
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\ConsultMe Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\ConsultMe Application.AssemblyInfoInputs.cache
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\ConsultMe Application.AssemblyInfo.cs
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\ConsultMe Application.csproj.CoreCompileInputs.cache
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\ConsultMe Application.dll
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\refint\ConsultMe Application.dll
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\ConsultMe Application.pdb
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\ConsultMe Application.genruntimeconfig.cache
+C:\Users\david\OneDrive\Desktop\2nd Year\1st Semester\OO Theory and Programming PROG\ConsultMe Application\ConsultMe Application\obj\Debug\net6.0\ref\ConsultMe Application.dll
